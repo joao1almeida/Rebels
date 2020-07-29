@@ -1,0 +1,16 @@
+C:\Users\exjgsa\source\repos\ShowsAPI\TvMazeScraper\bin\Debug\netstandard2.0\TvMazeScraper.deps.json
+C:\Users\exjgsa\source\repos\ShowsAPI\TvMazeScraper\bin\Debug\netstandard2.0\TvMazeScraper.dll
+C:\Users\exjgsa\source\repos\ShowsAPI\TvMazeScraper\obj\Debug\netstandard2.0\TvMazeScraper.csprojAssemblyReference.cache
+C:\Users\exjgsa\source\repos\ShowsAPI\TvMazeScraper\obj\Debug\netstandard2.0\TvMazeScraper.AssemblyInfoInputs.cache
+C:\Users\exjgsa\source\repos\ShowsAPI\TvMazeScraper\obj\Debug\netstandard2.0\TvMazeScraper.AssemblyInfo.cs
+C:\Users\exjgsa\source\repos\ShowsAPI\TvMazeScraper\bin\Debug\netstandard2.0\TvMazeScraper.pdb
+C:\Users\exjgsa\source\repos\ShowsAPI\TvMazeScraper\obj\Debug\netstandard2.0\TvMazeScraper.dll
+C:\Users\exjgsa\source\repos\ShowsAPI\TvMazeScraper\obj\Debug\netstandard2.0\TvMazeScraper.pdb
+C:\Users\exjgsa\Documents\projetos\Others\ShowsAPI\TvMazeScraper\bin\Debug\netstandard2.0\TvMazeScraper.deps.json
+C:\Users\exjgsa\Documents\projetos\Others\ShowsAPI\TvMazeScraper\bin\Debug\netstandard2.0\TvMazeScraper.dll
+C:\Users\exjgsa\Documents\projetos\Others\ShowsAPI\TvMazeScraper\bin\Debug\netstandard2.0\TvMazeScraper.pdb
+C:\Users\exjgsa\Documents\projetos\Others\ShowsAPI\TvMazeScraper\obj\Debug\netstandard2.0\TvMazeScraper.csprojAssemblyReference.cache
+C:\Users\exjgsa\Documents\projetos\Others\ShowsAPI\TvMazeScraper\obj\Debug\netstandard2.0\TvMazeScraper.AssemblyInfoInputs.cache
+C:\Users\exjgsa\Documents\projetos\Others\ShowsAPI\TvMazeScraper\obj\Debug\netstandard2.0\TvMazeScraper.AssemblyInfo.cs
+C:\Users\exjgsa\Documents\projetos\Others\ShowsAPI\TvMazeScraper\obj\Debug\netstandard2.0\TvMazeScraper.dll
+C:\Users\exjgsa\Documents\projetos\Others\ShowsAPI\TvMazeScraper\obj\Debug\netstandard2.0\TvMazeScraper.pdb
